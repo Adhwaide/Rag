@@ -1,0 +1,19 @@
+Artificial Intelligence enables machines to perform tasks that
+normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence that
+allows systems to learn patterns from data.
+
+Deep Learning is a subset of Machine Learning that uses
+multi-layered neural networks.
+
+Retrieval-Augmented Generation, or RAG, retrieves relevant
+external documents before generating an answer.
+
+Embeddings represent text as numerical vectors. Similar meanings
+can be represented by vectors that are close together.
+
+FastAPI is a Python framework used to build APIs.
+
+ChromaDB is a vector database that can store embeddings and
+retrieve relevant documents through similarity search.
